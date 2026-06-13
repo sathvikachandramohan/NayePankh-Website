@@ -5,10 +5,15 @@ This project was created to showcase how a modern and engaging website can help 
 
 The website focuses on simplicity, accessibility, and responsive design while providing visitors with information about the organization and opportunities to get involved.
 # Project Objectives
+
 Improve the online presence of NayePankh Foundation
+
 Promote volunteer participation
+
 Showcase the foundation's impact
+
 Create a clean and user-friendly experience
+
 Develop a responsive website accessible across devices
 
 # Features
